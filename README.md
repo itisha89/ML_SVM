@@ -1,4 +1,4 @@
-# README: Support Vector Machines for Ad-Click Prediction and Wine-Type Prediction
+# Support Vector Machines for Ad-Click Prediction and Wine-Type Prediction
 
 ## Project Overview
 This project involves the implementation of Support Vector Machines (SVMs) for two classification tasks:
@@ -120,3 +120,7 @@ The **RBF kernel** consistently outperformed linear and polynomial kernels for t
 - UCI Machine Learning Repository (Wine Dataset)
 - Scikit-learn Documentation for SVM, GridSearchCV, and Class Weights
 
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
